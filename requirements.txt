@@ -1,0 +1,6 @@
+requests==2.32.3
+js2py==0.74
+beautifulsoup4==4.12.3
+Pillow==10.4.0
+PyQt5==5.15.11
+urllib3==2.2.2
